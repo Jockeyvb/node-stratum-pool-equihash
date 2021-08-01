@@ -1,3 +1,6 @@
+Modified to include poolHex to identify pool name in coinbase for idenity on blockchain explorers
+
+
 High performance Stratum poolserver for Komodo in Node.js. One instance of this software can startup and manage multiple coin
 pools, each with their own daemon and stratum port :)
 
