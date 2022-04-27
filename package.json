@@ -35,7 +35,6 @@
         "bitgo-utxo-lib": "git+https://github.com/miketout/bitgo-utxo-lib.git",
         "merkle-bitcoin" : "git+https://github.com/webworker01/merkle-bitcoin.git",
         "promise": "^8.0.2",
-        "verushash": "git+https://github.com/VerusCoin/verushash-node.git"
     },
     "engines": {
         "node": ">=8"
