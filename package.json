@@ -29,14 +29,14 @@
         "url": "https://github.com/49handyman/node-stratum-pool.git"
     },
     "dependencies": {
-        "async": "^2.6.1",
+        "async": "^2.6.6",
         "base58-native": "^0.1.4",
-        "bignum": "^0.13.0",
-        "bitgo-utxo-lib": "git+https://github.com/miketout/bitgo-utxo-lib.git",
-        "merkle-bitcoin" : "git+https://github.com/webworker01/merkle-bitcoin.git",
+        "bignumber.js": "^6.0.0",
+        "bitgo-utxo-lib": "git+https://github.com/49handyman/bitgo-utxo-lib.git",
+        "merkle-bitcoin": "git+https://github.com/49handyman/merkle-bitcoin.git",
         "promise": ">=8.1.0"
     },
     "engines": {
-        "node": ">=12"
+        "node": ">=14"
     }
 }
