@@ -29,7 +29,7 @@
         "url": "https://github.com/49handyman/node-stratum-pool.git"
     },
     "dependencies": {
-        "async": ">=3.2.3",
+        "async": ">=2.6.4",
         "base58-native": "^0.1.4",
         "bignumber.js": ">=9.0.2",
         "bitgo-utxo-lib": "git+https://github.com/49handyman/bitgo-utxo-lib.git",
