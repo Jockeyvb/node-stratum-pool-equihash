@@ -1,6 +1,6 @@
 {
     "name": "stratum-pool",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "High performance Komodo stratum poolserver in Node.js",
     "keywords": [
         "stratum",
