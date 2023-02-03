@@ -1,2 +1,4 @@
 node_modules/
 .idea/
+lib/pool.js.old
+lib/peer.js.old
