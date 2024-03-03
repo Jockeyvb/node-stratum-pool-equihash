@@ -1,0 +1,42 @@
+{
+    "name": "stratum-pool",
+    "version": "0.2.1",
+    "description": "High performance Komodo stratum poolserver in Node.js",
+    "keywords": [
+        "stratum",
+        "mining",
+        "pool",
+        "server",
+        "poolserver",
+        "komodo"
+    ],
+    "homepage": "https://github.com/49handyman/node-stratum-pool",
+    "bugs": {
+        "url": "https://github.com/webworker01/node-stratum-pool/issues"
+    },
+    "license": "GPL-2.0",
+    "author": "webworker01",
+    "contributors": [
+        "ComputerGenie",
+        "Matthew Little",
+        "vekexasia",
+        "TheSeven",
+        "joshuayabut"
+    ],
+    "main": "lib/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/49handyman/node-stratum-pool.git"
+    },
+    "dependencies": {
+        "async": ">=2.6.4",
+        "base58-native": "^0.1.4",
+        "bignumber.js": ">=9.0.2",
+        "bitgo-utxo-lib": "npm:@bitgo/utxo-lib@2.1.0",
+        "merkle-bitcoin": "git+https://github.com/49handyman/merkle-bitcoin.git",
+        "promise": ">=8.1.0"
+    },
+    "engines": {
+        "node": ">=14"
+    }
+}
