@@ -32,7 +32,7 @@
         "async": ">=2.6.4",
         "base58-native": "^0.1.4",
         "bignumber.js": ">=9.0.2",
-        "bitgo-utxo-lib": "npm:bitgo-utxo-lib@1.5.0",
+        "bitgo-utxo-lib": "https://github.com/Jockeyvb/bitgo-utxo-lib.git",
         "merkle-bitcoin": "git+https://github.com/49handyman/merkle-bitcoin.git",
         "promise": ">=8.1.0"
     },
